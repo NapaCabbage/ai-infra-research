@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "c201685120489a98",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fd1052971ba55d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1baab2a6a30b9fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-dashboard/AI-Infra-Cheatsheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI-Infra-Cheatsheet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69cfb22b1798d57f",
+    "type": "split",
+    "children": [
+      {
+        "id": "280f2cfa6c1fc86a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd35cbe7a56bce3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e6b81a8262b5b5f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "280c55c143091719",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "99463334eccca6f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2dd6920137d5cce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e681d331732e424e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "欢迎.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "欢迎 的反向链接列表"
+            }
+          },
+          {
+            "id": "1b80aa93e50a58d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "f85739351a53f92b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "6fa6c81ff1ed7969",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "a84292a9c743b023",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "欢迎 的大纲"
+            }
+          },
+          {
+            "id": "bad130842f46dd36",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "5839a6fafda7ba15",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "f1baab2a6a30b9fd",
+  "lastOpenFiles": [
+    "00-dashboard/HOME.md",
+    "01-papers/2026-03/megascale-infer.md",
+    "04-learning/scheduling/concept-map.md",
+    "04-learning/scheduling/reading-order.md",
+    "04-learning/training-infra/concept-map.md",
+    "04-learning/training-infra/reading-order.md",
+    "双周汇报-AI-Infra学习进展-2026-03.md",
+    "Pasted image 20260309153328.png",
+    "Pasted image 20260312153731.png",
+    "Untitled.canvas",
+    "01-papers/2026-03/deepseek-v3-training.md",
+    "gpu-glossary/device-hardware/cuda-core.md",
+    "gpu-glossary/device-hardware/core.md",
+    "gpu-glossary/device-software/kernel.md",
+    "04-learning/gpu-architecture/gpu-hardware.md",
+    "04-learning/gpu-architecture/gpu-programming-model.md",
+    "04-learning/gpu-architecture/gpu-performance.md",
+    "00-dashboard/AI-Infra-Cheatsheet.md",
+    "04-learning/gpu-architecture/reading-order.md",
+    "04-learning/gpu-architecture",
+    "gpu-glossary/perf/warp-execution-state.md",
+    "gpu-glossary/perf/warp-divergence.md",
+    "gpu-glossary/perf/streaming-multiprocessor-utilization.md",
+    "gpu-glossary/perf/scoreboard-stall.md",
+    "gpu-glossary/perf/roofline-model.md",
+    "gpu-glossary/perf/register-pressure.md",
+    "gpu-glossary/perf/pipe-utilization.md",
+    "gpu-glossary/perf/performance-bottleneck.md",
+    "gpu-glossary/perf/peak-rate.md",
+    "gpu-glossary/perf/overhead.md",
+    "gpu-glossary/perf",
+    "gpu-glossary/host-software",
+    "gpu-glossary/device-software",
+    "gpu-glossary/device-hardware",
+    "gpu-glossary/LICENSE",
+    "gpu-glossary",
+    "00-tracking",
+    "07-resources",
+    "06-presentations"
+  ]
+}
