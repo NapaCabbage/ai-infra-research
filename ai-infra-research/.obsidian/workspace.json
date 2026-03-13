@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-dashboard/AI-Infra-Cheatsheet.md",
+                "file": "01-papers/2026-03/speculative-decoding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI-Infra-Cheatsheet"
+              "title": "speculative-decoding"
             }
           }
         ]
@@ -207,6 +207,10 @@
   },
   "active": "f1baab2a6a30b9fd",
   "lastOpenFiles": [
+    "01-papers/2026-03/sglang.md",
+    "01-papers/2026-03/distserve.md",
+    "01-papers/2026-03/deepseek-v3-training.md",
+    "00-dashboard/AI-Infra-Cheatsheet.md",
     "00-dashboard/HOME.md",
     "01-papers/2026-03/megascale-infer.md",
     "04-learning/scheduling/concept-map.md",
@@ -217,14 +221,12 @@
     "Pasted image 20260309153328.png",
     "Pasted image 20260312153731.png",
     "Untitled.canvas",
-    "01-papers/2026-03/deepseek-v3-training.md",
     "gpu-glossary/device-hardware/cuda-core.md",
     "gpu-glossary/device-hardware/core.md",
     "gpu-glossary/device-software/kernel.md",
     "04-learning/gpu-architecture/gpu-hardware.md",
     "04-learning/gpu-architecture/gpu-programming-model.md",
     "04-learning/gpu-architecture/gpu-performance.md",
-    "00-dashboard/AI-Infra-Cheatsheet.md",
     "04-learning/gpu-architecture/reading-order.md",
     "04-learning/gpu-architecture",
     "gpu-glossary/perf/warp-execution-state.md",
@@ -235,8 +237,6 @@
     "gpu-glossary/perf/register-pressure.md",
     "gpu-glossary/perf/pipe-utilization.md",
     "gpu-glossary/perf/performance-bottleneck.md",
-    "gpu-glossary/perf/peak-rate.md",
-    "gpu-glossary/perf/overhead.md",
     "gpu-glossary/perf",
     "gpu-glossary/host-software",
     "gpu-glossary/device-software",
